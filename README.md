@@ -10,8 +10,14 @@ Soy **LuLaLi20**, un Youtuber de Minecraft. Actualmente, estoy enfocado en mi ca
 
 Aquí hay algunas de las tecnologías y lenguajes con los que me gusta trabajar:
 
-*   **Lenguajes:** Python, Html5, Css y un poco de Js.
-*   **Herramientas:** Github, VS code.
+*   **Lenguajes:**
+  - Python. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - Html5.
+  - Css.
+  - Js. (Un poco).
+*   **Herramientas:**
+  - Github.
+  - VS code.
 
 ## Proyectos Destacados
 
