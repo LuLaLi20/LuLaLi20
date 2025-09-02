@@ -35,7 +35,7 @@ Mis estadísticas de Github:
 
 Mis redes cociales y contacto:
 
-*   **GitHub:** (https://github.com/LuLaLi20)
+*   **GitHub:** https://github.com/LuLaLi20
 *   **LinkedIn:** https://youtube.com/@LuLaLi20
 *   **Email:** LuLaLi20Minecraft@gmail.com 
 *   **Twitter/X:** https://x.com/LuLaLi20Mc
