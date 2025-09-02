@@ -1,16 +1,45 @@
-## Próximamente...
+# ¡Hola, soy LuLaLi20! 👋
 
-<!--
-**LuLaLi20/LuLaLi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+## Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy **LuLaLi20**, un Youtuber de Minecraft. Actualmente, estoy enfocado en mi canal de Youtube, mi web, add-ons de Minecraft Bedrock, y mis otras redes sociales.
+
+## Mis Habilidades
+
+Aquí hay algunas de las tecnologías y lenguajes con los que me gusta trabajar:
+
+*   **Lenguajes:** Python, Html5, Css y un poco de Js.
+*   **Herramientas:** Github, VS code.
+
+## Proyectos Destacados
+
+Aquí te presento algunos de los proyectos en los que he estado trabajando. ¡No dudes en explorarlos!
+
+*   **[Nombre del Proyecto 1]**: [Descripción breve del proyecto, qué hace o resuelve].
+    *   [Enlace al repositorio si es diferente]
+
+*   **[Nombre del Proyecto 2]**: [Descripción breve del proyecto, qué hace o resuelve].
+
+*   **[Nombre del Proyecto 3]**: [Descripción breve del proyecto, qué hace o resuelve].
+
+## Mis Estadísticas de GitHub
+
+Mis estadísticas de Github:
+
+[![LuLaLi20's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuLaLi20&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuLaLi20&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contacto
+
+Mis redes cociales y contacto:
+
+*   **GitHub:** [](https://github.com/LuLaLi20)
+*   **LinkedIn:** [](https://youtube.com/@LuLaLi20)
+*   **Email:** LuLaLi20Minecraft@gmail.com 
+*   **Twitter/X:** [](https://x.com/LuLaLi20Mc) 
+
+---
+
+¡Gracias por visitar mi perfil! 😊
