@@ -19,7 +19,7 @@ Aquí hay algunas de las tecnologías y lenguajes con los que me gusta trabajar:
   - Github.
   - VS code.
 
-## Proyectos Destacados
+(## Proyectos Destacados
 
 Aquí te presento algunos de los proyectos en los que he estado trabajando. ¡No dudes en explorarlos!
 
@@ -28,7 +28,7 @@ Aquí te presento algunos de los proyectos en los que he estado trabajando. ¡No
 
 *   **[Nombre del Proyecto 2]**: [Descripción breve del proyecto, qué hace o resuelve].
 
-*   **[Nombre del Proyecto 3]**: [Descripción breve del proyecto, qué hace o resuelve].
+*   **[Nombre del Proyecto 3]**: [Descripción breve del proyecto, qué hace o resuelve].)
 
 ## Mis Estadísticas de GitHub
 
