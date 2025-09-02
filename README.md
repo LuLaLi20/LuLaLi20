@@ -50,6 +50,8 @@ Mis redes sociales y contacto:
 
 ---
 *   **:)** ![Creeper](https://github.com/LuLaLi20/LuLaLi20.github.io/blob/main/assets/images/creeper.webp)
+
+*   **:)** <img src="https://github.com/LuLaLi20/LuLaLi20.github.io/blob/main/assets/images/creeper.webp" alt="Creeper" width="20">
 ---
 
 ¡Gracias por visitar mi perfil! 😊
