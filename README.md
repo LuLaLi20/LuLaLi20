@@ -24,14 +24,13 @@ Aquí hay algunas de las tecnologías y lenguajes con los que me gusta trabajar:
 
 ## Proyectos Destacados
 
-Aquí te presento algunos de los proyectos en los que he estado trabajando. ¡No dudes en explorarlos!
+¡Mis proyectos están en progreso! Vuelve pronto para ver lo que estoy construyendo.
 
-*   **[Nombre del Proyecto 1]**: [Descripción breve del proyecto, qué hace o resuelve].
-    *   [Enlace al repositorio si es diferente]
-
-*   **[Nombre del Proyecto 2]**: [Descripción breve del proyecto, qué hace o resuelve].
-
-*   **[Nombre del Proyecto 3]**: [Descripción breve del proyecto, qué hace o resuelve].
+<!-- Aquí puedes añadir tus proyectos cuando estén listos.
+Por ejemplo:
+*   **Mi Increíble Add-on**: Un add-on innovador para Minecraft Bedrock que añade [características].
+    *   [Enlace al repositorio/página del proyecto]
+-->
 
 ## Mis Estadísticas de GitHub
 
@@ -50,7 +49,7 @@ Mis redes sociales y contacto:
 *   **X (Twitter):** [![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LuLaLi20Mc)
 
 ---
-*   **:)** [![Creeper](https://raw.githubusercontent.com/LuLaLi20/LuLaLi20.github.io/refs/heads/main/assets/images/creeper.webp?token=GHSAT0AAAAAADKJ3IIEZJBRDDBTPX5FUNUG2FXBOAQ)
+*   **:)** [![Creeper](https://raw.githubusercontent.com/LuLaLi20/LuLaLi20.github.io/main/assets/images/creeper.webp)
 ---
 
 ¡Gracias por visitar mi perfil! 😊
