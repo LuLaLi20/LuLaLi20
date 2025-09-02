@@ -49,9 +49,7 @@ Mis redes sociales y contacto:
 *   **X (Twitter):** [![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LuLaLi20Mc)
 
 ---
-*   **:)** ![Creeper](https://github.com/LuLaLi20/LuLaLi20.github.io/blob/main/assets/images/creeper.webp)
-
-*   **:)** <img src="https://github.com/LuLaLi20/LuLaLi20.github.io/blob/main/assets/images/creeper.webp" alt="Creeper" width="20">
+*   **:)** <img src="https://github.com/LuLaLi20/LuLaLi20.github.io/blob/main/assets/images/creeper.webp" alt="Creeper" width="20"> <img src="https://github.com/LuLaLi20/LuLaLi20.github.io/blob/main/assets/images/steve.webp" alt="Steve" width="20">
 ---
 
 ¡Gracias por visitar mi perfil! 😊
