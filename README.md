@@ -1,25 +1,28 @@
 # ¡Hola, soy LuLaLi20! 👋
 
-¡Bienvenido a mi perfil de GitHub!
+¡Bienvenido a mi perfil de GitHub! 
+Soy **LuLaLi20**, un Youtuber de Minecraft. 
+¡Puedes encontrarme en mi canal! [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@LuLaLi20)
 
 ## Sobre Mí
 
-Soy **LuLaLi20**, un Youtuber de Minecraft. Actualmente, estoy enfocado en mi canal de Youtube, mi web, add-ons de Minecraft Bedrock, y mis otras redes sociales.
+Actualmente, estoy enfocado en mi canal de Youtube, mi web, la creación de add-ons para Minecraft Bedrock, y mis otras redes sociales.
 
 ## Mis Habilidades
 
 Aquí hay algunas de las tecnologías y lenguajes con los que me gusta trabajar:
 
 *   **Lenguajes:**
-  - Python. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - Html5.
-  - Css.
-  - Js. (Un poco).
-*   **Herramientas:**
-  - Github.
-  - VS code.
+    *   Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    *   HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    *   CSS3 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    *   JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) (Un poco)
 
-(## Proyectos Destacados
+*   **Herramientas:**
+    *   GitHub ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+    *   VS Code ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Proyectos Destacados
 
 Aquí te presento algunos de los proyectos en los que he estado trabajando. ¡No dudes en explorarlos!
 
@@ -28,23 +31,23 @@ Aquí te presento algunos de los proyectos en los que he estado trabajando. ¡No
 
 *   **[Nombre del Proyecto 2]**: [Descripción breve del proyecto, qué hace o resuelve].
 
-*   **[Nombre del Proyecto 3]**: [Descripción breve del proyecto, qué hace o resuelve].)
+*   **[Nombre del Proyecto 3]**: [Descripción breve del proyecto, qué hace o resuelve].
 
 ## Mis Estadísticas de GitHub
 
-Mis estadísticas de Github:
+Mis estadísticas de GitHub:
 
 [![LuLaLi20's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuLaLi20&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuLaLi20&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacto
 
-Mis redes cociales y contacto:
+Mis redes sociales y contacto:
 
-*   **GitHub:** https://github.com/LuLaLi20
-*   **LinkedIn:** https://youtube.com/@LuLaLi20
-*   **Email:** LuLaLi20Minecraft@gmail.com 
-*   **Twitter/X:** https://x.com/LuLaLi20Mc
+*   **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuLaLi20)
+*   **YouTube:** [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@LuLaLi20)
+*   **Email:** [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:LuLaLi20Minecraft@gmail.com)
+*   **X (Twitter):** [![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LuLaLi20Mc)
 
 ---
 
