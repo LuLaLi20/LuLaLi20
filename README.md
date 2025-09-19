@@ -49,7 +49,7 @@ Mis redes sociales y contacto:
 *   **X (Twitter):** [![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LuLaLi20Mc)
 
 ---
-*   **:)** <img src="https://github.com/LuLaLi20/LuLaLi20.github.io/blob/main/assets/images/creeper.webp" alt="Creeper" width="20"  style="vertical-align:middle;"> <img src="https://github.com/LuLaLi20/LuLaLi20.github.io/blob/main/assets/images/steve.webp" alt="Steve" width="20"  style="vertical-align:middle;"> <img src="https://yt3.googleusercontent.com/SyzjM-B_nwSpfOEspvbREf37bhrwQxH5292hzaocYyNafMpDa7NZnZPg2KX4_9EqKEEnpACcQw=s160-c-k-c0x00ffffff-no-rj" alt="LuLaLi20" width="20"  style="vertical-align:middle;">
+*   **:)** <img src="https://lulali20.ipodcraft.com/assets/images/creeper.webp" alt="Creeper" width="20"  style="vertical-align:middle;"> <img src="https://lulali20.ipodcraft.com/assets/images/steve.webp" alt="Steve" width="20"  style="vertical-align:middle;"> <img src="https://yt3.googleusercontent.com/SyzjM-B_nwSpfOEspvbREf37bhrwQxH5292hzaocYyNafMpDa7NZnZPg2KX4_9EqKEEnpACcQw=s160-c-k-c0x00ffffff-no-rj" alt="LuLaLi20" width="20"  style="vertical-align:middle;">
 ---
 
 ¡Gracias por visitar mi perfil! 😊
