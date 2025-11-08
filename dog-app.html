@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App de Perros - Razas Caninas</title>
+    <link rel="stylesheet" href="dog-app.css">
+</head>
+<body>
+    <header>
+        <h1>🐕 Galería de Razas de Perros 🐕</h1>
+        <p>Descubre las razas de perros más populares del mundo</p>
+    </header>
+
+    <main>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Buscar por raza...">
+            <button id="searchBtn">Buscar</button>
+        </div>
+
+        <div id="dogContainer" class="dog-grid">
+            <!-- Las tarjetas de perros se generarán dinámicamente -->
+        </div>
+
+        <div id="randomDog" class="random-section">
+            <h2>¡Perro Aleatorio del Día!</h2>
+            <button id="randomBtn">Mostrar Perro Aleatorio</button>
+            <div id="randomDogCard"></div>
+        </div>
+    </main>
+
+    <footer>
+        <p>App de Perros 2025 - Creado para LuLaLi20</p>
+    </footer>
+
+    <script src="dog-app.js"></script>
+</body>
+</html>
